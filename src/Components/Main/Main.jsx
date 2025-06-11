@@ -1,5 +1,5 @@
 import {useRef , useEffect} from "react";
-import "./main.css";
+import "./Main.css";
 import { assets } from "../../assets/assets";
 import { Context } from "../context/context"
 import { useContext } from "react";
